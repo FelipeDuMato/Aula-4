@@ -139,7 +139,7 @@ class MusicaController {
     <div class="song">
       <span class="idx">01</span>
       <div class="cover">
-        <!-- <img src="/images/voltemos.jpg" alt="Voltemos ao Início" /> -->
+        <img src="/images/voltemos.jpg" alt="Voltemos ao Início" />
         <span class="cover-placeholder">♪</span>
       </div>
       <div class="info">
@@ -152,7 +152,7 @@ class MusicaController {
     <div class="song">
       <span class="idx">02</span>
       <div class="cover">
-        <!-- <img src="/images/davida.jpg" alt="Da Vida o Melhor" /> -->
+        <img src="/images/davida.jpg" alt="Da Vida o Melhor" />
         <span class="cover-placeholder">♪</span>
       </div>
       <div class="info">
@@ -165,7 +165,7 @@ class MusicaController {
     <div class="song">
       <span class="idx">03</span>
       <div class="cover">
-        <!-- <img src="/images/igotta.jpg" alt="I Gotta Feeling" /> -->
+        <img src="/images/igotta.jpg" alt="I Gotta Feeling" />
         <span class="cover-placeholder">♪</span>
       </div>
       <div class="info">
@@ -178,7 +178,7 @@ class MusicaController {
     <div class="song">
       <span class="idx">04</span>
       <div class="cover">
-        <!-- <img src="/images/playhard.jpg" alt="Play Hard" /> -->
+        <img src="/images/playhard.jpg" alt="Play Hard" />
         <span class="cover-placeholder">♪</span>
       </div>
       <div class="info">
@@ -191,7 +191,7 @@ class MusicaController {
     <div class="song">
       <span class="idx">05</span>
       <div class="cover">
-        <!-- <img src="/images/quebromeu.jpg" alt="Quebro Meu Vaso" /> -->
+        <img src="/images/quebromeu.jpg" alt="Quebro Meu Vaso" />
         <span class="cover-placeholder">♪</span>
       </div>
       <div class="info">
